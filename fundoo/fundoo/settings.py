@@ -104,9 +104,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'chatdb',
-        'USER': 'mysqlDB@aniket-mysqlserver',
+        'USER': 'Aniket',
         'PASSWORD': 'Aniket@12345',
-        'HOST': 'aniket-mysqlserver.mysql.database.azure.com',
+        'HOST': 'aniketmysql.mysql.database.azure.com',
         'PORT': '3306',
     }
 }
